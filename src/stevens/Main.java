@@ -3,7 +3,8 @@ package stevens;
 public class Main {
 
     private void sayHelloPublic() {
-        System.out.println("Hello, my name is Kara");
+        System.out.println("Hello, my name is Kara\n");
+        System.out.println("Hello Kara! my name is Paul!\n");
     }
 
         // Main method
